@@ -1,0 +1,107 @@
+body{
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100vh;
+    padding-top: 50px;
+    margin-top: 50px;
+    margin-left:5px;
+}
+.container{
+    display:flex;
+    justify-content:center;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.background-image{
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+section{
+    padding-left:10px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+center{
+    padding-top: 20px;
+}
+img{
+    margin: 0px;
+    padding:0px;
+    float: left;
+    width: 150px;
+    height: 150px;
+    background-repeat:no-repeat;
+    clip-path:circle()
+}
+h1{
+    text-align: center;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    z-index:-1;
+    height: 100px;
+    background-color:none;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+}
+
+nav ul li{
+list-style:none;
+display:inline-block;
+line-height:80px;
+align-items: center;
+margin: 0px 0px;
+padding: 1px;
+}
+
+nav ul li a{
+display:inline-block;
+text-decoration:none;
+font-size:20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: bold;
+color:indigo;
+padding:0 10px ;
+
+}
+
+nav ul li a:hover {
+    color:red;
+
+}
+tr td a{
+    text-decoration:none;
+}
+ fa-tiktok{
+    text-decoration:none;
+}
+footer{
+padding: 5px 5px 5px 5px; 
+}
+.copyright{
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px;
+    padding-left:10px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+    
+
+

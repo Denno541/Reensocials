@@ -1,0 +1,17 @@
+.container{
+    display:flex;
+    justify-content:center;
+}
+.flex-box{
+   width: 150px;
+   
+}
+.flex-container{
+   
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+.flexbox{
+    width: 100px;
+}
